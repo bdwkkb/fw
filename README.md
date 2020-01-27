@@ -5,6 +5,7 @@
 1) CR10SPRO B7 (TM3D)
 2) CR10S5 BLtouch
 3) CR10S5 StockConfig
+4) Ender5 BLtouch
 
 
 ### List of Firmware to Backup
