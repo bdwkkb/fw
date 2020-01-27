@@ -1,10 +1,16 @@
 # fw
 ## Firmware Backups
 
+### Backup Completed
+1) CR10SPRO B7 (TM3D)
+2) CR10S5 BLtouch
+3) CR10S5 StockConfig
+
+
 ### List of Firmware to Backup
 1) CR-20 Pro
 2) Ender 3 BL Touch
-3) CR-10 S5
+
 
 ### List of Firmware to Verify for Backup
 2) CR-10 Max? (B7 or DW5?)
